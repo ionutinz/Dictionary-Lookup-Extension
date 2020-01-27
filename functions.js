@@ -1,7 +1,7 @@
 
 var contextMenuItem = {
     "id": "inzDEX",
-    "title": `Caută definiția cuvântului selectat în dicționar.`,
+    "title": "Caută definiția cuvântului selectat în dicționar.",
     "contexts": ["selection"]
 };
 
