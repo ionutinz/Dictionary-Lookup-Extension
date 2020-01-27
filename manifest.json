@@ -3,7 +3,7 @@
   
     "name": "Caută in dicționar",
     "description": "Caută definiția cuvântului selectat pe dexonline.ro",
-    "version": "1.0",
+    "version": "1.1",
     "background": {
         "scripts": ["functions.js"],
         "persistent": false
